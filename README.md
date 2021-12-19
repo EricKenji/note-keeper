@@ -13,4 +13,4 @@ https://nameless-retreat-41957.herokuapp.com/notes
 ## Contribution
 Made by Eric
 
-
+![note-keeper](https://user-images.githubusercontent.com/16628477/146664119-5693333c-ff81-411e-87e6-e048055d2a57.png)
