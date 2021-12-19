@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"id":1,"title":"Test Title","text":"Test text"},{"id":2,"title":"test","text":"test"},{"id":3,"title":"History class","text":"world war 2 "}]
