@@ -10,9 +10,11 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
 
+// middleare for api and html routes
 app.use(apiRoutes);
 app.use(htmlRoutes);
 
+//listen for PORT
 app.listen(PORT, () => {
     console.log(`API server now on port ${PORT}.`);
 });
